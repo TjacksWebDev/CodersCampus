@@ -1,0 +1,21 @@
+label {
+    width: 100%;
+    
+}
+
+body {
+    background-color: aqua;
+}
+
+.div-pad {
+    margin-top: 10px;
+}
+
+#clear-form {
+    background-color: blueviolet;
+    padding: 5px;
+}
+#submit {
+    background-color: #FF33AA;
+}
+
